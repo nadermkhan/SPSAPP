@@ -1,0 +1,21 @@
+{
+  "AppName": "YourAppName",
+  "Version": "1.0.0",
+  "BuildVersion": "1001",
+  "Status": "active",
+  "MsgStatus": "success",
+  "RootURL": "https://api.yourapp.com",
+  "LatestUpdated": "2024-09-22T12:00:00Z",
+  "WhatsNew": {
+    "1001": [
+      "Initial release of the app.",
+      "Added user authentication.",
+      "Improved UI/UX."
+    ],
+    "1002": [
+      "Fixed bugs related to login.",
+      "Enhanced performance.",
+      "Added new features in settings."
+    ]
+  }
+}
